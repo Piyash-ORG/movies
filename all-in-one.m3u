@@ -1,3 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="mv1" tvg-name="Operation Saho" group-title="Movies" tvg-logo="https://example.com/saho.jpg", Operation Saho (VOD)
+#EXTVLCOPT:vod=1
+https://example.com/movies/saho.mp4
+
+#EXTINF:-1 tvg-id="deepto" group-title="Entertainment" tvg-logo="https://example.com/deepto.jpg", Deepto TV
+https://example.com/live/deepto.m3u8
+
 #EXTINF:-1 group-title="Tamil Bangla" tvg-logo="https://i.postimg.cc/QMhYwjrY/Shahoshi-Nenjil-Thunivirunthal-2025-Bengali-Dubbed-ORG-Bongo-BD-WEB-DL-H264-AAC-1080p-720p-480p-Down.webp",Bhale Manchi Roju (2015)
 https://stream.mux.com/J7rXjrxB67SJCzbFz0001E8aJOuHK3mC5w95lLEWa902MQ.m3u8
 #EXTINF:-1 group-title="Tamil Bangla" tvg-logo="https://i.postimg.cc/FztBPNWL/Saaho-2019-Bengali-HQ-Dubbed-WEB-DL-H264-AAC-1080p-480p-Download.jpg",Saaho (2019)
