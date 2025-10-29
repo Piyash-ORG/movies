@@ -10,47 +10,44 @@ https://stream.mux.com/ic6rWphODwqyO2wkqugNXg8Gi3026UW02KqB9rc7C64UQ.m3u8
 
 
 
-
 ######################################
 #   🎬 Entertainment Channels
 ######################################
-#EXTINF:-1 tvg-id="134" tvg-logo="https://i.ibb.co.com/v4jPdJ27/deepto-tv.jpg" group-title="Entertainment",Deepto TV
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/28DrYztP/deepto-tv.jpg" group-title="Entertainment",Deepto TV
 https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/e2f53bf1-1da4-40ca-8e09-08e8452b5fff/master.m3u8
-#EXTINF:-1 tvg-id="134" tvg-logo="https://i.ibb.co.com/v4jPdJ27/deepto-tv.jpg" group-title="Entertainment",Deepto TV
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/28DrYztP/deepto-tv.jpg" group-title="Entertainment",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.ibb.co.com/r2CMc28X/bangla-vision.jpg" group-title="Entertainment",Bangla Vision
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.postimg.cc/CLsYL3TF/bangla-vision.jpg" group-title="Entertainment",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-id="122" tvg-logo="https://i.ibb.co.com/BYFpFHN/btv.jpg" group-title="Entertainment",BTV
+#EXTINF:-1 tvg-id="122" tvg-logo="https://i.postimg.cc/2SjYq0r6/btv.jpg" group-title="Entertainment",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-logo="https://i.ibb.co.com/tw1NTCYt/atn-bangla.jpg" group-title="Entertainment",ATN Bangla
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.postimg.cc/cLDSffLm/atn-bangla.jpg" group-title="Entertainment",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 tvg-id="132" tvg-logo="https://i.ibb.co.com/KpD9vPBt/channel-i.jpg" group-title="Entertainment",Channel I
+#EXTINF:-1 tvg-id="132" tvg-logo="https://i.postimg.cc/25VfG3qR/channel-i.jpg" group-title="Entertainment",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mrXSbSzX/Srk-Tv.jpg" group-title="Entertainment",Srk TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd4M6x8d/Srk-Tv.jpg" group-title="Entertainment",Srk TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4w4v9BH/geo-tv-logo.jpg" group-title="Entertainment",GEO TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBnwRjLv/geo-tv-logo.jpg" group-title="Entertainment",GEO TV
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 
 
 ######################################
 #   📰 News Channels
 ######################################
-#EXTINF:-1 tvg-id="97" tvg-logo="https://i.ibb.co.com/WpqQ2KBf/jamuna-tv.jpg" group-title="News",Jamuna TV
+#EXTINF:-1 tvg-id="97" tvg-logo="https://i.postimg.cc/KvkL6Ddt/jamuna-tv.jpg" group-title="News",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-logo="https://i.ibb.co.com/YqXJmFC/atn-news.jpg" group-title="News",ATN News
+#EXTINF:-1 tvg-id="93" tvg-logo="https://i.postimg.cc/kX680vk1/atn-news.jpg" group-title="News",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-logo="https://i.ibb.co.com/FkBkx5Z3/channel-24.jpg" group-title="News",Channel 24
+#EXTINF:-1 tvg-id="94" tvg-logo="https://i.postimg.cc/ncy7pQJw/channel-24.jpg" group-title="News",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-id="102" tvg-logo="https://i.ibb.co.com/jv6Qxy05/ekattor-tv.jpg" group-title="News",Ekattor TV
+#EXTINF:-1 tvg-id="102" tvg-logo="https://i.postimg.cc/PrgZT8HH/ekattor-tv.jpg" group-title="News",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-logo="https://i.ibb.co.com/HjT0GyX/independent.jpg" group-title="News",Independent TV
+#EXTINF:-1 tvg-id="96" tvg-logo="https://i.postimg.cc/x1LmCTjD/independent.jpg" group-title="News",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-id="98" tvg-logo="https://i.ibb.co.com/8LVxQ7R0/somoy-tv.jpg" group-title="News",Somoy TV
+#EXTINF:-1 tvg-id="98" tvg-logo="https://i.postimg.cc/JzjXn47y/somoy-tv.jpg" group-title="News",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-logo="https://landportal.org/sites/default/files/2023-05/Aljazeera-logo-English-1024x768.png" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-id="65" tvg-logo="https://i.postimg.cc/KwcFmwDP/al-jazeera.jpg" group-title="News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-id="IndependentTV" tvg-logo="https://i.ibb.co/6XgKHnL/independent.png" group-title="News",Independent TV 2
-
 
 
 ######################################
