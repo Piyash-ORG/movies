@@ -11,6 +11,52 @@ https://stream.mux.com/ic6rWphODwqyO2wkqugNXg8Gi3026UW02KqB9rc7C64UQ.m3u8
 
 
 
+######################################
+#   🎬 Entertainment Channels
+######################################
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.ibb.co.com/v4jPdJ27/deepto-tv.jpg" group-title="Entertainment",Deepto TV
+https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/e2f53bf1-1da4-40ca-8e09-08e8452b5fff/master.m3u8
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.ibb.co.com/v4jPdJ27/deepto-tv.jpg" group-title="Entertainment",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.ibb.co.com/r2CMc28X/bangla-vision.jpg" group-title="Entertainment",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="122" tvg-logo="https://i.ibb.co.com/BYFpFHN/btv.jpg" group-title="Entertainment",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.ibb.co.com/tw1NTCYt/atn-bangla.jpg" group-title="Entertainment",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-logo="https://i.ibb.co.com/KpD9vPBt/channel-i.jpg" group-title="Entertainment",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrXSbSzX/Srk-Tv.jpg" group-title="Entertainment",Srk TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4w4v9BH/geo-tv-logo.jpg" group-title="Entertainment",GEO TV
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
+
+
+######################################
+#   📰 News Channels
+######################################
+#EXTINF:-1 tvg-id="97" tvg-logo="https://i.ibb.co.com/WpqQ2KBf/jamuna-tv.jpg" group-title="News",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-logo="https://i.ibb.co.com/YqXJmFC/atn-news.jpg" group-title="News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="94" tvg-logo="https://i.ibb.co.com/FkBkx5Z3/channel-24.jpg" group-title="News",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-logo="https://i.ibb.co.com/jv6Qxy05/ekattor-tv.jpg" group-title="News",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-logo="https://i.ibb.co.com/HjT0GyX/independent.jpg" group-title="News",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="https://i.ibb.co.com/8LVxQ7R0/somoy-tv.jpg" group-title="News",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="65" tvg-logo="https://landportal.org/sites/default/files/2023-05/Aljazeera-logo-English-1024x768.png" group-title="News",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-id="IndependentTV" tvg-logo="https://i.ibb.co/6XgKHnL/independent.png" group-title="News",Independent TV 2
+
+
+
+######################################
+#   🏟️ Sports Channels
+######################################
+
 
 #EXTINF:-1 group-title="Bengali Movies" tvg-logo="https://github.com/Piyash-ORG/movies/blob/3bed947da3bdb4ccf5fc48566243672baaa779d9/LMC_04072025_090903.%F0%9F%93%B8Real%20DSLR%20by%20Riyan%20-lmc82.PORTRAIT.jpg?raw=true",This playlist made by Piyash
 https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/bb5a7fa5-fa50-4da9-ba30-b2d40a984f38/master.m3u8
