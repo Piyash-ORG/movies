@@ -8,8 +8,6 @@ https://stream.mux.com/ic6rWphODwqyO2wkqugNXg8Gi3026UW02KqB9rc7C64UQ.m3u8
 
 
 
-
-
 ######################################
 #   🎬 Entertainment Channels
 ######################################
@@ -53,7 +51,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 ######################################
 #   🏟️ Sports Channels
 ######################################
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPGZVL0qCWhH34y96bm9icPXG_ppKgtBXBVn5wR_KKGGZXgkpx0ug6y-1&s=10" group-title="Sports",T Sports
+http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bengali Movies" tvg-logo="https://github.com/Piyash-ORG/movies/blob/3bed947da3bdb4ccf5fc48566243672baaa779d9/LMC_04072025_090903.%F0%9F%93%B8Real%20DSLR%20by%20Riyan%20-lmc82.PORTRAIT.jpg?raw=true",This playlist made by Piyash
 https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/bb5a7fa5-fa50-4da9-ba30-b2d40a984f38/master.m3u8
