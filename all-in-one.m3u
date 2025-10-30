@@ -18,8 +18,6 @@ https://stream.mux.com/ic6rWphODwqyO2wkqugNXg8Gi3026UW02KqB9rc7C64UQ.m3u8
 #   🎬 Entertainment Channels
 ######################################
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/28DrYztP/deepto-tv.jpg" group-title="Entertainment",Deepto TV
-https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/e2f53bf1-1da4-40ca-8e09-08e8452b5fff/master.m3u8
-#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/28DrYztP/deepto-tv.jpg" group-title="Entertainment",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.postimg.cc/CLsYL3TF/bangla-vision.jpg" group-title="Entertainment",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
@@ -48,7 +46,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://i.postimg.cc/JzjXn47y/somoy-tv.jpg" group-title="News",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-logo="https://i.postimg.cc/KwcFmwDP/al-jazeera.jpg" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-id="65" tvg-logo="https://i.ibb.co/9HbCQWrM/images-q-tbn-ANd9-Gc-RKwizzi-G8g1-KY301-K0-Vtr-Jgd5v-Oyp-G0-ML5kco-Mt-LTfsg-s-10.png" group-title="News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 ######################################
 #   🏟️ Sports Channels
