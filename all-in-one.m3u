@@ -51,7 +51,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 ######################################
 #   🏟️ Sports Channels
 ######################################
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPGZVL0qCWhH34y96bm9icPXG_ppKgtBXBVn5wR_KKGGZXgkpx0ug6y-1&s=10" group-title="Sports",T Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPGZVL0qCWhH34y96bm9icPXG_ppKgtBXBVn5wR_KKGGZXgkpx0ug6y-1&s=10",T Sports
 http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
