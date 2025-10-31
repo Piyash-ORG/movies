@@ -31,32 +31,33 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBnwRjLv/geo-tv-logo.jpg" group-title="Entertainment",GEO TV
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-Hum#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png",Hum TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png",Hum TV
 https://bongoflixbd.top/test/live.php?id=hum_tv&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png",Maasranga TV
 http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 ######################################
 #   📰 News Channels
 ######################################
-#EXTINF:-1 tvg-id="97" tvg-logo="https://i.postimg.cc/KvkL6Ddt/jamuna-tv.jpg" group-title="News",Jamuna TV
+#EXTINF:-1 tvg-id="97" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/jamuna-tv.jpg" group-title="News",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-logo="https://i.postimg.cc/kX680vk1/atn-news.jpg" group-title="News",ATN News
+#EXTINF:-1 tvg-id="93" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/atn-news.jpg" group-title="News",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-logo="https://i.postimg.cc/ncy7pQJw/channel-24.jpg" group-title="News",Channel 24
+#EXTINF:-1 tvg-id="94" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/channel-24.jpg" group-title="News",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-id="102" tvg-logo="https://i.postimg.cc/PrgZT8HH/ekattor-tv.jpg" group-title="News",Ekattor TV
+#EXTINF:-1 tvg-id="102" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/ekattor-tv.jpg" group-title="News",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-logo="https://i.postimg.cc/x1LmCTjD/independent.jpg" group-title="News",Independent TV
+#EXTINF:-1 tvg-id="96" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/independent.jpg" group-title="News",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-id="98" tvg-logo="https://i.postimg.cc/JzjXn47y/somoy-tv.jpg" group-title="News",Somoy TV
+#EXTINF:-1 tvg-id="98" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/somoy-tv.jpg" group-title="News",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-logo="https://i.ibb.co/9HbCQWrM/images-q-tbn-ANd9-Gc-RKwizzi-G8g1-KY301-K0-Vtr-Jgd5v-Oyp-G0-ML5kco-Mt-LTfsg-s-10.png" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-id="65" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/al-jazeera.jpg" group-title="News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 ######################################
 #   🏟️ Sports Channels
 ######################################
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPGZVL0qCWhH34y96bm9icPXG_ppKgtBXBVn5wR_KKGGZXgkpx0ug6y-1&s=10",T Sports
 http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
