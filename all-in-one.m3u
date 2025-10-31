@@ -17,23 +17,23 @@ https://stream.mux.com/ic6rWphODwqyO2wkqugNXg8Gi3026UW02KqB9rc7C64UQ.m3u8
 ######################################
 #   🎬 Entertainment Channels
 ######################################
-#EXTINF:-1 tvg-id="134" tvg-logo="https://i.postimg.cc/28DrYztP/deepto-tv.jpg" group-title="Entertainment",Deepto TV
+##EXTINF:-1 tvg-id="134" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/deepto-tv.jpg" group-title="Entertainment",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.postimg.cc/CLsYL3TF/bangla-vision.jpg" group-title="Entertainment",Bangla Vision
+#EXTINF:-1 tvg-id="100" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/bangla-vision.jpg" group-title="Entertainment",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-id="122" tvg-logo="https://i.postimg.cc/2SjYq0r6/btv.jpg" group-title="Entertainment",BTV
+#EXTINF:-1 tvg-id="122" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/btv.jpg" group-title="Entertainment",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-logo="https://i.postimg.cc/cLDSffLm/atn-bangla.jpg" group-title="Entertainment",ATN Bangla
+#EXTINF:-1 tvg-id="131" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/atn-bangla.jpg" group-title="Entertainment",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 tvg-id="132" tvg-logo="https://i.postimg.cc/25VfG3qR/channel-i.jpg" group-title="Entertainment",Channel I
+#EXTINF:-1 tvg-id="132" tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/channel-i.jpg" group-title="Entertainment",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd4M6x8d/Srk-Tv.jpg" group-title="Entertainment",Srk TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/srk-tv.jpg" group-title="Entertainment",Srk TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBnwRjLv/geo-tv-logo.jpg" group-title="Entertainment",GEO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/geo-tv.jpg" group-title="Entertainment",GEO TV
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png",Hum TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/hum-tv.jpg" group-title="Entertainment",Hum TV
 https://bongoflixbd.top/test/live.php?id=hum_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png",Maasranga TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Piyash-ORG/movies/refs/heads/main/logo/maasranga-tv.jpg" group-title="Entertainment",Maasranga TV
 http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 ######################################
 #   📰 News Channels
