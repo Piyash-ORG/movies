@@ -1,0 +1,10 @@
+{
+  "headers": [
+    {
+      "source": "/(.*).m3u",
+      "headers": [
+        { "key": "Content-Type", "value": "audio/x-mpegurl" }
+      ]
+    }
+  ]
+}
